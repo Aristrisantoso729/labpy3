@@ -18,7 +18,7 @@
 
 ![Tanpa judul2](https://user-images.githubusercontent.com/58107014/69479372-0b0eea00-0e2f-11ea-9c62-394f4d2b016d.png)
 
-# Penjelasan labpy3
+# Penjelasan Program1
 * I. Modal awal pengusaha sebesar 100000000
 
 * II. Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
